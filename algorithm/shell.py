@@ -42,11 +42,11 @@ def make_steps(data=None):
 def shell(data):
     for step in make_steps(data):
         for i in xrange(len(data)):
-            if i == 1:
-                for i in xrange(1, len(data)):
-                    for j in xrange(len(data[:i])):  # sorted part
-                        if data[j] > data[i]:
-                            data[j], data[i] = data[i], data[j]
+            if step == 1:
+                for k in xrange(1, len(data)):
+                    for j in xrange(len(data[:k])):  # sorted part
+                        if data[j] > data[k]:
+                            data[j], data[k] = data[k], data[j]
             else:
                 try:
                     if data[i] > data[i + step]:
