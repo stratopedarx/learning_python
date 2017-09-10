@@ -1,0 +1,6 @@
+The function "sorting_option" takes 3.69548797607e-05 seconds for [-4, 0, 2, 3, 6, 7, 8, 9].
+The function "sorting_option" takes 2.19345092773e-05 seconds for [1, 2, 3, 4, 5, 6, 7, 8, 9].
+The function "sorting_option" takes 1.59740447998e-05 seconds for [1, 2, 3, 4, 5, 6, 7, 8, 9].
+The function "insertion" takes 3.60012054443e-05 seconds for [-4, 0, 2, 3, 6, 7, 8, 9].
+The function "insertion" takes 2.8133392334e-05 seconds for [1, 2, 3, 4, 5, 6, 7, 8, 9].
+The function "insertion" takes 1.69277191162e-05 seconds for [1, 2, 3, 4, 5, 6, 7, 8, 9].
