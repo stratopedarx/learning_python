@@ -7,3 +7,12 @@ The function "bubble_sort" takes 4.19616699219e-05 seconds for [1, 2, 3, 4, 5, 6
 The function "selection" takes 4.72068786621e-05 seconds for [-4, 0, 2, 3, 6, 7, 8, 9].
 The function "selection" takes 2.78949737549e-05 seconds for [1, 2, 3, 4, 5, 6, 7, 8, 9].
 The function "selection" takes 2.00271606445e-05 seconds for [1, 2, 3, 4, 5, 6, 7, 8, 9].
+The function "insertion" takes 2.31266021729e-05 seconds for [-4, 0, 2, 3, 6, 7, 8, 9].
+The function "insertion" takes 1.90734863281e-05 seconds for [1, 2, 3, 4, 5, 6, 7, 8, 9].
+The function "insertion" takes 1.09672546387e-05 seconds for [1, 2, 3, 4, 5, 6, 7, 8, 9].
+The function "insertion" takes 3.2901763916e-05 seconds for [-4, 0, 2, 3, 6, 7, 8, 9].
+The function "insertion" takes 2.69412994385e-05 seconds for [1, 2, 3, 4, 5, 6, 7, 8, 9].
+The function "insertion" takes 1.71661376953e-05 seconds for [1, 2, 3, 4, 5, 6, 7, 8, 9].
+The function "shell" takes 6.00814819336e-05 seconds for [-4, 0, 2, 3, 6, 7, 8, 9].
+The function "shell" takes 4.60147857666e-05 seconds for [1, 2, 3, 4, 5, 6, 7, 8, 9].
+The function "shell" takes 3.69548797607e-05 seconds for [1, 2, 3, 4, 5, 6, 7, 8, 9].
