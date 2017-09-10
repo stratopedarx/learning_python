@@ -6,6 +6,8 @@
 https://www.toptal.com/developers/sorting-algorithms/insertion-sort
 """
 from decorator_time import decorator_time
+
+
 a = [0, 2, 3, -4, 6, 9, 7, 8]
 b = [9, 8, 7, 6, 5, 4, 3, 2, 1]
 c = [1, 2, 3, 4, 5, 6, 7, 8, 9]

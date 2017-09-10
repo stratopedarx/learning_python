@@ -20,7 +20,7 @@ c = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 
 @decorator_time
-def sorting_option(data):
+def selection(data):
     for i in xrange(len(data)):
         min_index = data.index(min(data[i:]))
         if min_index == i:
@@ -31,6 +31,6 @@ def sorting_option(data):
     return data
 
 
-assert sorting_option(a) == [-4, 0, 2, 3, 6, 7, 8, 9], 'It\'s failed'
-assert sorting_option(b) == [1, 2, 3, 4, 5, 6, 7, 8, 9], 'It\'s failed'
-assert sorting_option(c) == [1, 2, 3, 4, 5, 6, 7, 8, 9], 'It\'s failed'
+assert selection(a) == [-4, 0, 2, 3, 6, 7, 8, 9], 'It\'s failed'
+assert selection(b) == [1, 2, 3, 4, 5, 6, 7, 8, 9], 'It\'s failed'
+assert selection(c) == [1, 2, 3, 4, 5, 6, 7, 8, 9], 'It\'s failed'
